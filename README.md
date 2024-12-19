@@ -1,3 +1,3 @@
-# P-gina_Aterrizaje
+# **_Página_Aterrizaje_**
 
-### **_Un diseño sencillo para un producto o servicio._**
+### **_Un diseño sencillo para un producto o servicio en particular._**
